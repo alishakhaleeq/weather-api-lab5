@@ -14,10 +14,15 @@ A Python application using the Open-Meteo Weather API to provide comprehensive w
 
 ### Issues Encountered:
 -Issue 1: Setting up initial project structure
+
 -Issue 2: Making first API call
+
 -Issue 3: Parsing JSON responses
+
 -Issue 4: Implementing user interface
+
 -Issue 5: Testing API responses with different weather conditions
+
 ### Resolved Issues:
 Issue #1: Setting up initial project structure with proper file organization 
 -Problem: Need to organize code into logical modules and create proper GitHub repository
